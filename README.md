@@ -1,2 +1,3 @@
 # -drawing-snails-
-use 'turtle' tools draw a snail in Python
+Drawing a snail with 'turtle' in Python.
+It's just a practice...
