@@ -1,0 +1,15 @@
+import turtle
+turtle.pencolor('green')
+for x in range(0,100):
+    turtle.circle(x,10)
+turtle.circle(-10,100)
+turtle.forward(60)
+turtle.circle(-10,90)
+turtle.forward(100)
+turtle.circle(30,180)
+turtle.forward(140)
+turtle.circle(30,90)
+turtle.forward(350)
+turtle.circle(30,180)
+turtle.forward(73)
+turtle.hideturtle()
